@@ -1,2 +1,2 @@
 # Plagiarism-Detection
-A neural network classifier for detecting plagiariesn in student answers
+A neural network classifier for detecting plagiarism in student answers
